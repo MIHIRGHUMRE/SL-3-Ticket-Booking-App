@@ -62,14 +62,14 @@ Visit http://localhost:8000
 
 # 📸 Screenshots
 
-![Screenshot 2025-04-25 165624](https://github.com/user-attachments/assets/425d9a71-2a8a-4c25-8018-e569023955d9)
-![Screenshot 2025-04-25 165818](https://github.com/user-attachments/assets/20737093-0a6a-473d-b336-a94234c9270a)
-![Screenshot 2025-04-25 170240](https://github.com/user-attachments/assets/28895482-196f-4805-a55a-fb88d8b0c8a5)
-![Screenshot 2025-04-25 170509](https://github.com/user-attachments/assets/da76b97f-0bca-4458-8e1b-9df0a00a48b2)
-![Screenshot 2025-04-25 170525](https://github.com/user-attachments/assets/9d4253f3-4956-4f17-944b-ee5c8dcde2b3)
-![Screenshot 2025-04-25 170538](https://github.com/user-attachments/assets/5ebd4a6b-cf3e-41aa-8772-fc38d8d356f7)
-![Screenshot 2025-04-25 170556](https://github.com/user-attachments/assets/326dfd1f-7fb9-49cc-aef0-2bac7de71bb0)
-![Screenshot 2025-04-25 165536](https://github.com/user-attachments/assets/d4833640-a913-46a4-98c8-bda6f7d49d90)
+![Screenshot 2025-04-25 165624](https://github.com/user-attachments/assets/a8a9bf1d-df06-4d43-8bb7-2e89f18b7224)
+![Screenshot 2025-04-25 165818](https://github.com/user-attachments/assets/ee61df26-c229-40fb-9e94-566fe784e5cc)
+![Screenshot 2025-04-25 170240](https://github.com/user-attachments/assets/470b4e96-8203-4b4a-9e60-8bf0a289ac1e)
+![Screenshot 2025-04-25 170509](https://github.com/user-attachments/assets/d088f059-725b-4b4a-8584-1f084915edd0)
+![Screenshot 2025-04-25 170525](https://github.com/user-attachments/assets/3c4a546d-09d1-4392-acbd-e210c8c23518)
+![Screenshot 2025-04-25 170538](https://github.com/user-attachments/assets/13e21fe6-df90-4d1c-852c-cf5f2fc26afc)
+![Screenshot 2025-04-25 170556](https://github.com/user-attachments/assets/9f69b1c0-a98b-4ce9-ae96-d1f105322f2a)
+![Screenshot 2025-04-25 165536](https://github.com/user-attachments/assets/a9a50b5c-9763-4d20-93a0-115ef33e6e31)
 
 
 # 🐳 Docker Usage
